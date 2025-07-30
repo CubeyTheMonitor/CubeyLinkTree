@@ -1,0 +1,1 @@
+console.log("I made this javascript file just to print this, Hi! ^_^")
