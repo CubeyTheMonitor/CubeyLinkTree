@@ -79,18 +79,21 @@ h4 {
   background-color: #b882ff;
   text-decoration: none;
   text-align: center;
-  transition: color 300ms ease, background-color 300ms ease;
+  transition: color 300ms ease, background-color 300ms ease, width 300ms ease;
 }
 .new2 {
   border-top: 5px dotted rgb(255, 255, 255);
   
   border-bottom: 0px;
+  max-width: 1000px;
 }
 a:hover {
 	background-color: #ffffff58;
-
+	width: 230px;
 }
 a:active {
 		background-color: #ffffff;
 	color: #8132ff;
+	width: 220px;
+	
 }
